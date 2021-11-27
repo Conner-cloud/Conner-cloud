@@ -9,4 +9,4 @@ Seeking postgraduate opportunities in Data Science and/or Machine Learning.
 Currently working on a portfolio of personal projects that utilize my skills learnt from my degree
 to produce results that would benefit companies in the real world or just for fun.
 
-LinkedIN(https://www.linkedin.com/in/conner-spear-992629222/)
+[LinkedIN](https://www.linkedin.com/in/conner-spear-992629222/)
